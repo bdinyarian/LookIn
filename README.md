@@ -25,16 +25,9 @@ The script currently supports a predefined set of regular expression patterns in
 
 ## Requirements
 
-Python 3.6+ is required to run the script. The following Python packages are also required:
+pip install tqdm tabulate colorama
 
-- `os`
-- `re`
-- `codecs`
-- `mimetypes`
-- `tqdm`
-- `tabulate`
-- `colorama`
-- `concurrent.futures`
+Python 3.6+ is required to run the script.
 
 ## Note
 
